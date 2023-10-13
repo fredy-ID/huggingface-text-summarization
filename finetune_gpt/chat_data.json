@@ -1,0 +1,65 @@
+[
+    {"dialog_id": "0x57a8b12", "dialog": [
+        {"id": 0, "sender": "visitor", "text": "Bonjour ! Je visite votre site portfolio et je suis intéressé par vos projets. Pouvez-vous me montrer quelques-uns de vos travaux récents?"}, 
+        {"id": 1, "sender": "chatbot", "text": "Bonjour ! Bien sûr, je serais ravi de vous montrer mes projets. Voici l'un de mes projets récents : [Nom du Projet 1]. Il s'agit d'un site web interactif pour une entreprise locale. Que pensez-vous de ce projet?"}, 
+        {"id": 2, "sender": "visitor", "text": "C'est impressionnant ! J'aime vraiment le design et l'interactivité. Avez-vous travaillé sur d'autres projets similaires pour des entreprises locales?"}, 
+        {"id": 3, "sender": "chatbot", "text": "Oui, absolument ! J'ai également travaillé sur un projet pour [Nom de l'Entreprise 2]. Il s'agissait d'une application mobile pour leur service de livraison. Les utilisateurs pouvaient facilement commander des produits en ligne. Êtes-vous intéressé par les détails de ce projet?"}, 
+        {"id": 4, "sender": "visitor", "text": "Oui, je suis intéressé par les détails. Comment avez-vous abordé les défis spécifiques de ce projet de livraison en ligne?"}, 
+        {"id": 5, "sender": "chatbot", "text": "Pour le projet de livraison en ligne, nous avons mis l'accent sur l'expérience utilisateur fluide. Nous avons créé une interface conviviale, permettant aux utilisateurs de parcourir facilement les produits, de passer des commandes et de suivre leur livraison en temps réel. De plus, nous avons intégré des fonctionnalités de paiement sécurisé pour assurer la confidentialité des transactions. Le client était très satisfait des résultats."}, 
+        {"id": 6, "sender": "visitor", "text": "Cela semble vraiment bien pensé. Avez-vous d'autres types de projets dans votre portfolio? Je suis curieux de voir la diversité de votre travail."}, 
+        {"id": 7, "sender": "chatbot", "text": "Absolument, j'ai travaillé sur divers projets, y compris des sites e-commerce, des applications mobiles, et même des projets d'identité visuelle. Chaque projet représente un défi unique que j'ai relevé avec passion. Si vous le souhaitez, je peux vous montrer des exemples de chaque type de projet."}, 
+        {"id": 8, "sender": "visitor", "text": "Oui, je suis intéressé par vos projets d'identité visuelle. Comment abordez-vous le processus de conception pour créer des logos et des marques mémorables?"}, 
+        {"id": 9, "sender": "chatbot", "text": "Le processus de conception d'identité visuelle est très important pour moi. Je m'efforce de comprendre l'essence de l'entreprise ou de la marque, son public cible et ses valeurs fondamentales. Ensuite, je crée des concepts uniques et mémorables en utilisant des éléments graphiques, des couleurs et des typographies qui reflètent l'identité de la marque. Chaque détail est soigneusement pensé pour créer une identité visuelle distinctive."}
+    ], "eval_score": 1, "profile_match": 0
+    },
+    {"dialog_id": "0x23451a", "dialog": [
+        {"id": 0, "sender": "visitor", "text": "Bonjour !"}, 
+        {"id": 1, "sender": "chatbot", "text": "Bonjour ! Comment puis-je vous aider aujourd'hui?"}, 
+        {"id": 2, "sender": "visitor", "text": "Merci, je vais bien. Au revoir !"}, 
+        {"id": 3, "sender": "chatbot", "text": "Au revoir ! N'hésitez pas à revenir si vous avez d'autres questions."}
+    ], "eval_score": 1, "profile_match": 0
+    },
+    {"dialog_id": "0x23451a", "dialog": [
+        {"id": 0, "sender": "visitor", "text": "Bonjour !"}, 
+        {"id": 1, "sender": "chatbot", "text": "Bonjour ! Comment puis-je vous aider aujourd'hui?"}, 
+        {"id": 2, "sender": "visitor", "text": "Merci, je vais bien. Au revoir !"}, 
+        {"id": 3, "sender": "chatbot", "text": "Au revoir ! N'hésitez pas à revenir si vous avez d'autres questions."}
+    ], "eval_score": 1, "profile_match": 0
+    },
+    {"dialog_id": "0x123abc", "dialog": [
+        {"id": 0, "sender": "visitor", "text": "Coucou !"}, 
+        {"id": 1, "sender": "chatbot", "text": "Bonjour! Comment puis-je rendre votre journée meilleure?"}, 
+        {"id": 2, "sender": "visitor", "text": "Je voulais juste dire bonjour. À plus tard !"}, 
+        {"id": 3, "sender": "chatbot", "text": "Au revoir ! Passez une excellente journée."}
+    ], "eval_score": 1, "profile_match": 0
+    },
+    {"dialog_id": "0x7890def", "dialog": [
+        {"id": 0, "sender": "visitor", "text": "Bonjour ! J'ai entendu parler de vos services de conception de sites web. Pouvez-vous me donner plus d'informations sur les packages que vous proposez?"}, 
+        {"id": 1, "sender": "chatbot", "text": "Bonjour ! Bien sûr, nous avons différents packages de conception de sites web adaptés à divers besoins. Nous offrons des options pour les sites vitrines, les sites e-commerce et même les sites sur mesure. Chaque package comprend le design, le développement et l'optimisation pour les moteurs de recherche. Si vous avez des exigences spécifiques, n'hésitez pas à nous le faire savoir et nous pouvons personnaliser un package pour vous."}, 
+        {"id": 2, "sender": "visitor", "text": "C'est génial ! Je suis particulièrement intéressé par le package e-commerce. Pouvez-vous me donner une idée des coûts et des délais de livraison habituels?"}, 
+        {"id": 3, "sender": "chatbot", "text": "Pour notre package e-commerce, les coûts varient en fonction de la complexité du site et des fonctionnalités requises. En général, nos prix commencent à partir de 1500 euros. En ce qui concerne les délais, cela dépend également du projet, mais nous nous efforçons de livrer les sites e-commerce dans un délai de 4 à 6 semaines après avoir reçu toutes les informations nécessaires de votre part."}
+    ], "eval_score": 1, "profile_match": 0
+    },
+    {"dialog_id": "0x7890def", "dialog": [
+        {"id": 0, "sender": "visitor", "text": "Bonjour ! J'ai entendu parler de vos services de conception de sites web. Pouvez-vous me donner plus d'informations sur les packages que vous proposez?"}, 
+        {"id": 1, "sender": "chatbot", "text": "Bonjour ! Bien sûr, nous avons différents packages de conception de sites web adaptés à divers besoins. Nous offrons des options pour les sites vitrines, les sites e-commerce et même les sites sur mesure. Chaque package comprend le design, le développement et l'optimisation pour les moteurs de recherche. Si vous avez des exigences spécifiques, n'hésitez pas à nous le faire savoir et nous pouvons personnaliser un package pour vous."}, 
+        {"id": 2, "sender": "visitor", "text": "C'est génial ! Je suis particulièrement intéressé par le package e-commerce. Pouvez-vous me donner une idée des coûts et des délais de livraison habituels?"}, 
+        {"id": 3, "sender": "chatbot", "text": "Pour notre package e-commerce, les coûts varient en fonction de la complexité du site et des fonctionnalités requises. En général, nos prix commencent à partir de 1500 euros. En ce qui concerne les délais, cela dépend également du projet, mais nous nous efforçons de livrer les sites e-commerce dans un délai de 4 à 6 semaines après avoir reçu toutes les informations nécessaires de votre part."}
+    ], "eval_score": 1, "profile_match": 0
+    },
+    {"dialog_id": "0xabc1234", "dialog": [
+        {"id": 0, "sender": "visitor", "text": "Bonjour !"}, 
+        {"id": 1, "sender": "chatbot", "text": "Bonjour ! Comment puis-je vous aider aujourd'hui?"}, 
+        {"id": 2, "sender": "visitor", "text": "Je cherche des informations sur vos services de conception de logos."}, 
+        {"id": 3, "sender": "chatbot", "text": "Bien sûr, nous proposons des services de conception de logos personnalisés. Nos designers créent des logos uniques qui représentent l'essence de votre entreprise. Pouvez-vous me donner quelques détails sur votre entreprise et vos préférences de design?"}, 
+        {"id": 4, "sender": "visitor", "text": "Nous sommes une entreprise de technologie et nous aimerions un logo moderne et innovant. Des couleurs comme le bleu ou le vert pourraient fonctionner."}, 
+        {"id": 5, "sender": "chatbot", "text": "Compris, nous pouvons certainement créer un logo moderne et innovant pour votre entreprise de technologie. Nous allons intégrer le bleu et le vert dans le design. Avez-vous des idées spécifiques pour l'icône du logo?"}, 
+        {"id": 6, "sender": "visitor", "text": "Nous aimerions peut-être incorporer un élément de circuit ou de technologie dans le logo."}, 
+        {"id": 7, "sender": "chatbot", "text": "Parfait, nous allons inclure un élément de circuit dans le design du logo pour refléter la nature technologique de votre entreprise. Avez-vous des préférences de police pour le texte du logo?"}, 
+        {"id": 8, "sender": "visitor", "text": "Quelque chose de moderne et lisible serait idéal."}, 
+        {"id": 9, "sender": "chatbot", "text": "Entendu, nous choisirons une police moderne et lisible pour le texte du logo. Nous allons maintenant travailler sur le design et vous envoyer quelques propositions sous peu. Merci de nous avoir choisis pour votre projet de logo!"}, 
+        {"id": 10, "sender": "visitor", "text": "Merci beaucoup ! J'attends avec impatience de voir les propositions. Au revoir !"}, 
+        {"id": 11, "sender": "chatbot", "text": "Au revoir ! N'hésitez pas à revenir si vous avez d'autres questions ou demandes à l'avenir. Passez une excellente journée!"}
+    ], "eval_score": 1, "profile_match": 0
+    }
+]
